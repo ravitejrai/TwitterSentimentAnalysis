@@ -14,11 +14,11 @@
 
 `kafka-topics.bat --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic test`
 
-4. You will elastic search for running this program. Install it and run via
+4. You will use elastic search for running this program. Install it and run via
 
 `elasticsearch.bat`
 
-5. open the puthon code in pycharm and run
+5. open the python code in pycharm and run
 
 First run the producer and then the consumer 
 
